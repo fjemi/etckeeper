@@ -8,7 +8,13 @@ blkid.tab
 blkid.tab.old
 
 # some other files in /etc that typically do not need to be tracked
+hosts*
+hostname
 nologin
+gshadow*
+passwd*
+shadow*
+trusted-key*
 ld.so.cache
 prelink.cache
 mtab
