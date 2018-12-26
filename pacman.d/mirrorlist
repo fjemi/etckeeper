@@ -1,0 +1,17 @@
+##
+## Manjaro Linux default mirrorlist
+## Generated on 2018-12-26 11:27
+##
+## Please use 'pacman-mirrors -f [NUMBER] NUMBER' to modify mirrorlist
+## (Use 0 for all mirrors)
+##
+
+## Country : Austria
+Server = http://mirror.inode.at/manjaro/stable/$repo/$arch
+
+## Country : Russia
+Server = https://mirror.yandex.ru/mirrors/manjaro/stable/$repo/$arch
+
+## Country : Kenya
+Server = https://manjaro.mirror.liquidtelecom.com/stable/$repo/$arch
+
