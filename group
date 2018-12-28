@@ -60,6 +60,6 @@ polkitd:x:102:
 rtkit:x:133:
 sddm:x:988:
 femij:x:1000:
-bumblebee:x:56:
+bumblebee:x:56:femij
 transmission:x:169:
 nvidia-persistenced:x:143:
